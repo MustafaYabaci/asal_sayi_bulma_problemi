@@ -1,0 +1,1 @@
+# asal_sayi_bulma_problemi
